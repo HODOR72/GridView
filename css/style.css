@@ -1,0 +1,25 @@
+body{
+	background-color: aliceblue;
+	font-family: Georgia, 'Times New Roman', Times, serif;	
+}
+table {
+	font-size: 20px;
+	text-align: center;
+	border-collapse: collapse;
+	border:  1px solid #7f7f7f;
+	margin: 0 auto;
+}
+table tr, td, th {
+	border:  1px solid #7f7f7f;
+}
+table td, th{
+	padding: 10px;
+}
+table th{
+	text-transform: uppercase;
+}
+.header {
+	padding-top: 20vh;
+	text-align: center;
+	font-size: 28px;
+}
